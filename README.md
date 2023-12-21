@@ -1,2 +1,2 @@
-# Terabase
-TeraBase Project
+# Terabases
+TeraBases Project
